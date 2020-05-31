@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b1c438b14ef4a5480b14cd1ea2d265, type: 3}
+  m_Name: FireLord
+  m_EditorClassIdentifier: 
+  unitName: Fire Lord
+  elementType: 2
+  unitSprite: {fileID: 21300000, guid: 6a114df6ce8152c4abf5e6fa79200920, type: 3}
+  attackMultiplier: 1.5
+  defenseMultiplier: 1.3
+  specialAttackMultiplier: 1.2
+  specialDefenseMultiplier: 1
+  speedMultiplier: 1.8
+  maxHPMultiplier: 3.5
+  allSkills:
+  - {fileID: 11400000, guid: eae4d00cded874a67bfaba8c570ce330, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  levelToLearnSkills: 01000000000000000000000000000000000000000000000000000000000000000000000000000000
